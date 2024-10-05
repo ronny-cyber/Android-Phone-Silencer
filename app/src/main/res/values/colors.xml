@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fc5c30</color>
+    <color name="colorPrimaryDark">#cc3208</color>
+    <color name="colorAccent">#cc3208</color>
+    <color name="bluedark">#2f333f</color>
+    <color name="bluelight">#49acd5</color>
+    <color name="green">#45bc62</color>
+    <color name="orange">#eaad43</color>
+    <color name="colorTransparent">#43000000</color>
+    <color name="redTransparent">#7ffd0101</color>
+    <color name="radius">#95ABC8F1</color>
+    <color name="outline">#100535</color>
+</resources>

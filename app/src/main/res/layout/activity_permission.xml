@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PermissionActivity"
+    android:padding="32dp"
+    android:layout_gravity="center"
+    android:background="#5C6BC0">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:adjustViewBounds="true"
+            android:maxWidth="170dp"
+            android:maxHeight="170dp"
+            android:scaleType="fitCenter"
+            android:contentDescription="navigation_logo"
+            android:src="@drawable/gps" />
+        <TextView
+            android:layout_gravity="center"
+
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Permission required"
+            android:fontFamily="sans-serif-black"
+            android:layout_marginTop="12dp"
+            android:textColor="@color/quantum_black_100"
+            android:textStyle="bold"
+            android:textSize="24sp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Smart Location Alarm needs permission to access device location. Please allow it: "
+            android:fontFamily="sans-serif-black"
+            android:gravity="center_horizontal"
+            android:textColor="@color/quantum_black_100"
+            android:textSize="24sp"
+            android:layout_marginTop="30dp"
+            />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/grant_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#303F9F"
+        android:textColor="#FFFFFF"
+        android:text="Grant Permission"
+        android:textAllCaps="false"
+
+        />
+
+</RelativeLayout>

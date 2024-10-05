@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tbuonomo.andrui:viewpagerdotsindicator:2.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b35f72a83085c6e68f67fe96ea02955/jetified-viewpagerdotsindicator-2.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b35f72a83085c6e68f67fe96ea02955/jetified-viewpagerdotsindicator-2.0.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b35f72a83085c6e68f67fe96ea02955/jetified-viewpagerdotsindicator-2.0.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d80bcb975092261d195f88672ea847e6/jetified-viewpagerdotsindicator-2.0.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d80bcb975092261d195f88672ea847e6/jetified-viewpagerdotsindicator-2.0.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d80bcb975092261d195f88672ea847e6/jetified-viewpagerdotsindicator-2.0.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tbuonomo.andrui/viewpagerdotsindicator/2.0.3/4ce7454bbdf84c2e557907a19147b681bd0b31ed/viewpagerdotsindicator-2.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/create"
+        android:icon="@drawable/ic_newalarm"
+        android:title="Create Profile" />
+    <item
+        android:id="@+id/exist"
+        android:icon="@drawable/ic_tracking"
+        android:title="Tracking" />
+    <item
+        android:id="@+id/allalarms"
+        android:icon="@drawable/ic_alarms"
+        android:title="All Profile" />
+    <item
+        android:id="@+id/setting"
+        android:icon="@drawable/ic_settings"
+        android:title="Settings" />
+<!--    <item-->
+<!--        android:id="@+id/rating"-->
+<!--        android:icon="@drawable/baseline_thumb_up_black_24dp"-->
+<!--        android:title="Rate us!" />-->
+<!--    <item-->
+<!--        android:id="@+id/share"-->
+<!--        android:icon="@drawable/baseline_share_black_24dp"-->
+<!--        android:title="Share" />-->
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/baseline_info_black_24dp"
+        android:title="About" />
+</menu>
