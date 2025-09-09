@@ -106,11 +106,9 @@ The Smart Location Alarm application requires the following testing environment:
 📸 Screenshots
 ----------------
 <img width="131" height="232" alt="image" src="https://github.com/user-attachments/assets/586af4b4-4492-4b84-930a-6e7ffbe4fbd3" />
-[Placeholder for screenshot 1]
 <img width="131" height="232" alt="image" src="https://github.com/user-attachments/assets/db88bb44-2048-4b26-97c4-9a2905b1410a" />
-[Placeholder for screenshot 2]
 <img width="131" height="232" alt="image" src="https://github.com/user-attachments/assets/2070349d-07c5-4331-8bc4-8dda9b341d44" />
-[Placeholder for screenshot 3]
+
 
 📦 API Reference
 -----------------
@@ -145,9 +143,9 @@ The API documentation for the Smart Location Alarm application can be found in t
 👤 Author
 ---------
 
-The Smart Location Alarm application was created by [Your Name], a software developer with a passion for building innovative and user-friendly applications.
+The Smart Location Alarm application was created by Rohan Gaikwad, a software developer with a passion for building innovative and user-friendly applications.
 
 📝 License
 ---------
 
-The Smart Location Alarm application is licensed under the [License Name], which can be found in the `LICENSE` file. By using this application, you agree to the terms and conditions of the license.
+The Smart Location Alarm application is licensed under the Rohan Gaikwad, which can be found in the `LICENSE` file. By using this application, you agree to the terms and conditions of the license.
